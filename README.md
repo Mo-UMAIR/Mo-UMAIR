@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [Mohd Umair]
 
 🚀 Machine Learning & AI Engineer | Deep Learning | Computer Vision | NLP | Generative AI  
 
@@ -65,5 +65,8 @@ Docker, Git, GitHub
 
 I’m open to collaborating on innovative AI research, impactful ML projects, and cutting-edge Generative AI applications.
 
-📫 Connect with me on LinkedIn  
-💻 Explore my repositories below
+📫 **Connect with me on LinkedIn:**  
+[LinkedIn Profile](https://www.linkedin.com/in/mohdumair336/)
+
+💻 **Explore my repositories:**  
+[GitHub Profile](https://github.com/Mo-UMAIR)
